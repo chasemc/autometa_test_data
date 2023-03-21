@@ -1,0 +1,8 @@
+
+The resulkts of running prodigal on the three genomes -> `prots.faa.gz`
+
+`prots.faa.gz` was blasted against ncbi's nr database -> `blastp.tsv.gz`
+
+The proteins in `blastp.tsv.gz` were downloaded and put into -> `nr.fa.gz`
+
+The protein accessions in `blastp.tsv.gz` were matched to the full `prot.accession2taxid.gz` and written to `prot.accession2taxid.gz`
