@@ -1,5 +1,5 @@
 
-The resulkts of running prodigal on the three genomes -> `prots.faa.gz`
+The results of running prodigal on the three genomes -> `prots.faa.gz`
 
 `prots.faa.gz` was blasted against ncbi's nr database -> `blastp.tsv.gz`
 
